@@ -1,0 +1,12 @@
+A-B-C Lo hicimos pero los archivos no se pisan
+
+git fetch https://github.com/Jorgedc87/TP_SO_i2_Equipo3.git
+
+$ git merge fetch_head
+D-Cada uno puede ver su repositorio y actualiza el de los q no estan
+
+E- 	Lorge Calderon
+	Fernando Nieto 
+	Javier Olivieri
+
+
